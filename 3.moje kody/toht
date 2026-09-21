@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jan Toth</title>
+    <style>
+        p{
+            text-align: justify;
+            color: black;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: large
+
+        }
+
+        h1{
+            color: ;
+            text-align: center;
+        }
+        body{
+            background-color:ghostwhite;
+        }
+
+        div{
+            text-align: center; 
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Jan Toth</h1>
+    <div><img src="Image.jpg" width="300" height="300"></div>
+    <p>
+        Říká se, že útočníci vyhrávají zápasy, ale obránci vyhrávají tituly. A pak je tu Jan Tóth – obránce, který nevyhrává jen tituly, ale i psychologické války s každým, kdo se opováží přiblížit k jeho pokutovému území.Honza je v obraně naprostým úkazem. Zatímco moderní fotbalisté řeší účesy a správnou délku štulpen, Jan Tóth vyznává starou školu. Jeho fotbalová filozofie je prostá: „Míč může projít, ale hráč nikdy.“ Když Honza nastoupí na stopera, soupeřovi útočníci okamžitě hlásí trenérovi indispozici a střídačka hostů začíná hromadně googlit, jak se správně ošetřuje naražená holenní kost.Mezi klukama v kabině se o Honzovi vyprávějí legendy. Třeba ta, jak jednou v zápase odvrátil gól hlavičkou tak tvrdě, že míč proletěl zpátky celým hřištěm a protrhl síť soupeřovy branky. Nebo ta, že když rozhodčí odpíská proti jeho týmu faul, Honza se na něj jen podívá a rozhodčí raději odpíská konec zápasu, aby měl klid.Mimo hřiště je to skvělý kamarád, se kterým je nuda nemožná. Jakmile ale rozhodčí pískne do píšťalky a Honza si upraví kapitánskou pásku (nebo aspoň pomyslnou), mění se v zeď, kterou by neprorazil ani rozjetý kamion. Pokud máte Jana Tótha v týmu, vaše branka je v naprostém bezpečí. Pokud hrajete proti němu, doporučujeme útočit raději po druhé straně hřiště.
+    </p>
+
+</body>
+</html>
