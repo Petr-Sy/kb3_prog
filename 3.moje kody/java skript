@@ -9,10 +9,11 @@
     <h1 id="vystup"></h1>
 
     <script>
-    let jmeno = prompt("Zadej jmeno: ");
+        let cislo = Number(prompt("Zadej věk: "));
+        let jmeno = prompt("Zadej jméno: ");
         
-        document.getElementById("vystup").innerHTML
-        ="Ahoj " + jmeno + " !";
+        document.getElementById("vystup").innerHTML = 
+            "Vítej " + jmeno + ", do důchodu ti zbývá " + (70 - cislo) + " let.";
     </script>
     
 </body>
