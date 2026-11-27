@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hádej znak</title>
+</head>
+<body>
+    <p id="uspech"></p>
+
+    <script>
+        let znak = prompt("Tvým úkolem je uhodnout znak.\n\nCo tipuješ?");;
+        
+        while (znak != "A") {
+            znak = prompt("Tvým úkolem je uhodnout znak.\n\nCo tipuješ?");
+        }
+        
+        document.getElementById("uspech").innerHTML
+            = "Uhodnuto 😎";
+    </script>
+</body>
+</html>
